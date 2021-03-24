@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is a very simple task app that includes deletion.",
+    "githubUrl": "https://github.com/ovandenbosch/Todoify"
   }
 }
