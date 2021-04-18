@@ -8,6 +8,7 @@ React native is a mobile framework very similar to react that works with mobile 
 
 ## Features 🔥
 - Very nice simple and clean UI
+- User friendly colour scheme
 - The ability to delete tasks by clicking on them
 - The ability to add tasks by pressing enter
 
